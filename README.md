@@ -1,3 +1,5 @@
+SMPlayer  sarebbe utilissimo averlo anche 
+su android chiedo allo sviluppatore se può ampliare questa fantastca app anche per android 
 # SMPlayer
 A Simple Music Player that manages local music files based on the UI of Groove Music.
 
@@ -59,5 +61,6 @@ Grid Mode for PlaylistPage.
 Improve shy header.
 
 Batch delete music file.
+
 
 Lock-Screen wall paper like Groove.
